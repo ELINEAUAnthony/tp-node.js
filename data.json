@@ -1,0 +1,24 @@
+{
+    "user": [
+        {},
+        {
+            "userid": "2",
+            "name": "remi",
+            "password": "touriste"
+        },
+        {
+            "userid": "1",
+            "name": "anthony",
+            "password": "trop fort"
+        }
+    ],
+    "items": [
+        {
+            "itemid": "1",
+            "label": "essai",
+            "image": "url",
+            "description": "ceci est un test"
+        }
+    ],
+    "list": []
+}
